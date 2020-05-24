@@ -3,7 +3,7 @@ import re
 import glob
 from zipfile import ZipFile
 
-documents = glob.glob('D:/Docs/BIBLES/*.docx')
+documents = glob.glob('D:/Docs/*.docx')
 
 
 #%%
